@@ -1,6 +1,4 @@
-
-<-----------------------------------------Read me-------------------------------------->
-Instructions for running the project
+#Instructions for running the project
 
 -->run XAMPP application, start Apache and MySQL servers in XAMPP control panel.
 
